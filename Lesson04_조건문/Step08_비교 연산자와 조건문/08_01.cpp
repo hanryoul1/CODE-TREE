@@ -16,3 +16,6 @@ int main() {
     return 0;
         
 }
+
+// 1(참 - true) 혹은 0(거짓 - false) 값을 반환
+// 0이 아닌 값은 true이고, 0은 false로 정의
