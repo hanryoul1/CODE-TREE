@@ -6,4 +6,5 @@ int main() {
     int b = 5;
 
     cout << a << " * " << b << " = " << a*b;
+    return 0;
 }
