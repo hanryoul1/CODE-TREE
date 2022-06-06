@@ -1,12 +1,14 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main() {
 
-    int a, b;
+    string s, t;
+    cin >> s >> t;
 
-    cin >> a >> b;
-    cout << a << " " << b << " " << a + b;
+    cout << t << endl;
+    cout << s;
 
     return 0;
 }
